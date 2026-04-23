@@ -17,6 +17,8 @@ int main(void) {
 
   printf("Geben sie eine Länge der Kathete a ein: ");
   scanf("%lf", &leg_a);
+  printf("Geben sie eine Länge der Kathete b ein: ");
+  scanf("%lf", &leg_b);
 
   printf("%f", compute_hypotenuse(leg_a, leg_b));
 
