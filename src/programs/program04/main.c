@@ -9,7 +9,7 @@
 // TODO: your code goes here
 double compute_hypotenuse(double cath_a, double cath_b) {
   double compute_hypotenuse = 0;
-  double compute_hypotenuse = sqrt((cath_a * cath_a) + (cath_b * cath_b));
+  compute_hypotenuse = sqrt((cath_a * cath_a) + (cath_b * cath_b));
   return compute_hypotenuse;
 } 
 int main(void) {
