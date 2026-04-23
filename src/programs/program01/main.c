@@ -7,8 +7,14 @@
 
 int main(int argc, char **argv) {
    // write your solution here
-for (int i = 0; i >= 0; i++){
+   int number = 0;
+for (int number = 0; number <= 0; number++){
+ printf("Geben sie eine nummer ein: ");
+ do {(number < 0); 
    
    
+ }
+} while {number > 0}; 
+   
 }
-}
+
